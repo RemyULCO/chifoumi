@@ -1,0 +1,15 @@
+#include "Partie.hpp"
+
+Partie::Partie(){}
+
+void play(std::string PlayerName, std::string PlayerMove){
+
+}
+
+std::string getLastResult(){
+  return _lastResult;
+}
+
+std::string getLastAiMove(){
+  return _lastAiMove;
+}

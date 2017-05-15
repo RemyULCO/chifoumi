@@ -1,0 +1,6 @@
+#include _PARTIE_HPP_
+#ifndef _PARTIE_HPP_
+
+class Partie{
+
+};
